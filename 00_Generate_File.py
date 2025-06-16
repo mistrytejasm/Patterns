@@ -27,4 +27,4 @@ def generate_file(base_filename, count):
       print(f"Skipped (already Exists): {new_filename}")
 
 
-generate_file("16_Pattern.py", 9)
+generate_file("25_Pattern.py", 5)
